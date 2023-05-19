@@ -1,10 +1,4 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/dishtv.in.xml,https://iptv-org.github.io/epg/guides/en/unifi.com.my.xml,https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml"
-#EXTINF:-1 tvg-id="Animax.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Animation",Animax (480p)
-http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
-#EXTM3U url-tvg="http://epg.hidari.moe/jp.xml,http://epg.hidari.moe/jpkansai.xml" tvg-shift=0 m3uautoload=1
-#EXTINF:-1 ,paypal.me/Tieptran1970 | Donate
-#EXTINF:-1 ,V2 status : Beta
-#Kanto
 #EXTINF:-1 tvg-id="nhkg" tvg-name="NHK G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="Kanto / 関東",NHK G
 https://code.vthanhtivi.pw/getlink/jptv/Zt19NGeOuIq3EwLPZh_KvQ==/playlist.m3u8
 #EXTINF:-1 tvg-id="nhke" tvg-name="NHK E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="Kanto / 関東",NHK E
